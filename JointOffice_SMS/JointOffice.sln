@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JointOffice", "JointOffice\JointOffice.csproj", "{39F2D3D5-E71A-4140-B44C-285AD64CB25D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39F2D3D5-E71A-4140-B44C-285AD64CB25D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F2D3D5-E71A-4140-B44C-285AD64CB25D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F2D3D5-E71A-4140-B44C-285AD64CB25D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F2D3D5-E71A-4140-B44C-285AD64CB25D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49EF2BC4-26C6-4D4C-99B8-668FDD3CAD4D}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://193.168.1.130:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = JointOffice\\JointOffice.csproj
+		SccProjectName1 = JointOffice
+		SccLocalPath1 = JointOffice
+	EndGlobalSection
+EndGlobal

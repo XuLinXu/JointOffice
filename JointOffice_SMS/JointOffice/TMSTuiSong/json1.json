@@ -1,0 +1,116 @@
+﻿[
+  {
+    'leixingID': 'mr',
+    'qunID': 'test4',
+    'jobid': [ 'WY-OEMXSB-GDY', 'WY-HNQDKHB-ZYKHXSDB2' ]
+  },
+  {
+    'leixingID': 'mr',
+    'qunID': 'test2',
+    'jobid': [ 'WY-OEMXSB-GDY', 'WY-HNQDKHB-ZYKHXSDB2' ]
+  }
+] 
+
+[
+  {
+    "leixingID": "mr",
+    "qunID": "test1",
+    "jobid": [ "JY_BFQ_XSJL", "JY-HBQDKHB-XSJL", "JY-XSFWB-JSFWB-HBQJSFWDB1", "JY_HBZXKH_XXDB1", "WY-HBQDKHB-ZYKHXSDB3", "JY-HDQDKHB-ZYKHXSDB1", "JY-HBQDKHB-JSFWDBL", "JY_HD_XSDB", "JY_NFQ_XSJL", "JY-HDQDKHB-ZYKHXSDB2", "JY-XNQDKHB-ZYKHXSDB1", "XSJY_HNJSFU", "JY-HNQDKHB-ZYKHXSDB1" ]
+  },
+  {
+    "leixingID": "mr",
+    "qunID": "test3",
+    "jobid": [ "JY-OEMXSB-OEMXSZL", "JY-GYGXSB-XSZL1", "JY_XNZXKH_XXGCS" ]
+  },
+  {
+    "leixingID": "mr",
+    "qunID": "test4",
+    "jobid": [ "WY-OEMXSB-GDY", "WY-HNQDKHB-ZYKHXSDB2", "JY-HBQDKHB-VIPKHXSZGZL", "JY-XBQDKHB-VIPKHXSZGZL", "JY-HBQDKHB-ZYKHXSDB2", "JY_XNZXKH_XXDB3", "JY-HDQDKHB-XSDB9" ]
+  },
+  {
+    "leixingID": "mr",
+    "qunID": "test5",
+    "jobid": [ "JY_HD_XSDB", "JY_XNZXKH_XXGCS", "JY-HDQDKHB-XSDB9" ]
+  },
+  {
+    "leixingID": "mr",
+    "qunID": "test2",
+    "jobid": [ "JY-XSFWB-WLFWB-WLFWZG", "JY-SCB-SCBJL" ]
+  },
+  {
+    "leixingID": "rqrhb",
+    "qunID": "test1",
+    "jobid": [ "JY_BFQ_XSJL", "JY-HBQDKHB-XSJL", "JY-XSFWB-JSFWB-HBQJSFWDB1", "JY_HBZXKH_XXDB1", "WY-HBQDKHB-ZYKHXSDB3", "JY-HDQDKHB-ZYKHXSDB1", "JY-HBQDKHB-JSFWDBL", "JY_HD_XSDB", "JY_NFQ_XSJL", "JY-HDQDKHB-ZYKHXSDB2", "JY-XNQDKHB-ZYKHXSDB1", "XSJY_HNJSFU", "JY-HNQDKHB-ZYKHXSDB1" ]
+  },
+  {
+    "leixingID": "rqrhb",
+    "qunID": "test3",
+    "jobid": [ "JY-OEMXSB-OEMXSZL", "JY-GYGXSB-XSZL1", "JY_XNZXKH_XXGCS" ]
+  },
+  {
+    "leixingID": "rqrhb",
+    "qunID": "test4",
+    "jobid": [ "WY-OEMXSB-GDY", "WY-HNQDKHB-ZYKHXSDB2", "JY-HBQDKHB-VIPKHXSZGZL", "JY-XBQDKHB-VIPKHXSZGZL", "JY-HBQDKHB-ZYKHXSDB2", "JY_XNZXKH_XXDB3", "JY-HDQDKHB-XSDB9" ]
+  },
+  {
+    "leixingID": "rqrhb",
+    "qunID": "test5",
+    "jobid": [ "JY_HD_XSDB", "JY_XNZXKH_XXGCS", "JY-HDQDKHB-XSDB9" ]
+  },
+  {
+    "leixingID": "rqrhb",
+    "qunID": "test2",
+    "jobid": [ "JY-XSFWB-WLFWB-WLFWZG", "JY-SCB-SCBJL" ]
+  },
+  {
+    "leixingID": "rqzhb",
+    "qunID": "test1",
+    "jobid": [ "JY_BFQ_XSJL", "JY-HBQDKHB-XSJL", "JY-XSFWB-JSFWB-HBQJSFWDB1", "JY_HBZXKH_XXDB1", "WY-HBQDKHB-ZYKHXSDB3", "JY-HDQDKHB-ZYKHXSDB1", "JY-HBQDKHB-JSFWDBL", "JY_HD_XSDB", "JY_NFQ_XSJL", "JY-HDQDKHB-ZYKHXSDB2", "JY-XNQDKHB-ZYKHXSDB1", "XSJY_HNJSFU", "JY-HNQDKHB-ZYKHXSDB1" ]
+  },
+  {
+    "leixingID": "rqzhb",
+    "qunID": "test3",
+    "jobid": [ "JY-OEMXSB-OEMXSZL", "JY-GYGXSB-XSZL1", "JY_XNZXKH_XXGCS" ]
+  },
+  {
+    "leixingID": "rqzhb",
+    "qunID": "test4",
+    "jobid": [ "WY-OEMXSB-GDY", "WY-HNQDKHB-ZYKHXSDB2", "JY-HBQDKHB-VIPKHXSZGZL", "JY-XBQDKHB-VIPKHXSZGZL", "JY-HBQDKHB-ZYKHXSDB2", "JY_XNZXKH_XXDB3", "JY-HDQDKHB-XSDB9" ]
+  },
+  {
+    "leixingID": "rqzhb",
+    "qunID": "test5",
+    "jobid": [ "JY_HD_XSDB", "JY_XNZXKH_XXGCS", "JY-HDQDKHB-XSDB9" ]
+  },
+  {
+    "leixingID": "rqzhb",
+    "qunID": "test2",
+    "jobid": [ "JY-XSFWB-WLFWB-WLFWZG", "JY-SCB-SCBJL" ]
+  },
+  {
+    "leixingID": "rqyhb",
+    "qunID": "test1",
+    "jobid": [ "JY_BFQ_XSJL", "JY-HBQDKHB-XSJL", "JY-XSFWB-JSFWB-HBQJSFWDB1", "JY_HBZXKH_XXDB1", "WY-HBQDKHB-ZYKHXSDB3", "JY-HDQDKHB-ZYKHXSDB1", "JY-HBQDKHB-JSFWDBL", "JY_HD_XSDB", "JY_NFQ_XSJL", "JY-HDQDKHB-ZYKHXSDB2", "JY-XNQDKHB-ZYKHXSDB1", "XSJY_HNJSFU", "JY-HNQDKHB-ZYKHXSDB1" ]
+  },
+  {
+    "leixingID": "rqyhb",
+    "qunID": "test3",
+    "jobid": [ "JY-OEMXSB-OEMXSZL", "JY-GYGXSB-XSZL1", "JY_XNZXKH_XXGCS" ]
+  },
+  {
+    "leixingID": "rqyhb",
+    "qunID": "test4",
+    "jobid": [ "WY-OEMXSB-GDY", "WY-HNQDKHB-ZYKHXSDB2", "JY-HBQDKHB-VIPKHXSZGZL", "JY-XBQDKHB-VIPKHXSZGZL", "JY-HBQDKHB-ZYKHXSDB2", "JY_XNZXKH_XXDB3", "JY-HDQDKHB-XSDB9" ]
+  },
+  {
+    "leixingID": "rqyhb",
+    "qunID": "test5",
+    "jobid": [ "JY_HD_XSDB", "JY_XNZXKH_XXGCS", "JY-HDQDKHB-XSDB9" ]
+  },
+  {
+    "leixingID": "rqyhb",
+    "qunID": "test2",
+    "jobid": [ "JY-XSFWB-WLFWB-WLFWZG", "JY-SCB-SCBJL" ]
+  }
+
+]
